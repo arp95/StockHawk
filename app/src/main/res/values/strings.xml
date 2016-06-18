@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Stock Hawk</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="false">FB</string>
+    <string name="input_prefill" translatable="false"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_stock_details" translatable="false">StockDetails</string>
+    <string name="empty_view">No stocks available . Please connect to the internet .</string>
+    <string name="text_view">Fetching data ...Please Wait</string>
+    <string name="symbol">symbol</string>
+    <string name="no_internet">Please switch ON your WIFI !!</string>
+    <string name="stock_description" translatable="false">Stock Description</string>
+    <string name="stock_details" translatable="false">Stock Details</string>
+    <string name="fetching">Fetching..</string>
+    <string name="invalid_Stock">Invalid Stock !!</string>
+    <string name="floating_action_button" translatable="false">Clicking Floating Action Button..</string>
+    <string name="recycler_view_button" translatable="false">Stock item clicked..</string>
+    <string name="change_dollar" translatable="false">Changing Units..</string>
+    <string name="app_widget" translatable="false">New App Widget</string>
+</resources>
